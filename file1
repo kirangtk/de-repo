@@ -1,6 +1,0 @@
-this is lie 1
-cat > file2
-this is line2
-file1 file2.txt
-cat > file2
-vi a3.txt
